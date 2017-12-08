@@ -4,6 +4,7 @@ title: Hello World!
 subtitle: moving to new dimensions
 image: /img/first_profile.jpg
 bigimg: /img/first.jpg
+share-img: "/img/first_profile"
 ---
 It's 10:35 (CET) in the morning and everything seems fine. This will mark the start of my blog or rather _my experiences jotted down on virtual paper_. 
 
