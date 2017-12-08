@@ -1,6 +1,6 @@
 ---
 layout: post
-title: First post
+title: Hello World!
 subtitle: moving to new dimensions
 image: /img/first_profile.jpg
 bigimg: /img/first.jpg
