@@ -17,5 +17,5 @@ I forgot to write about the lady which I met on the train. So, here it is: I met
 Before leaving for India, I bought a [_Dresdner Christstollen_](http://www.dresdnerstollen.com/en/), a traditional cake from Dresden, for Florian and gifted a [_Kurta Pajama_](https://www.amazon.in/Kurta-Pyjamas/b?ie=UTF8&node=3723382031) to Ivo as a Christmas gift. I hope they liked it!
 Florian was my Bachelor's thesis supervisor and Ivo was my mentor during my internship at Max Planck Institute and he is currently my Master's thesis supervisor.
 
-So, here it is. I'm writing this article at 4 am in the morning.  The cover picAnd, yeah, I came back again for my Master's thesis. :)
+I'm writing this article at 4 am in the morning and need get back to sleep again. And yeah, _I came back again_ for my Master's thesis. :)
 
