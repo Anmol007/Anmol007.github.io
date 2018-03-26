@@ -1,10 +1,10 @@
 ---
 layout: post
 title: I came back
-image: /img/second_profile_.jpg
+image: /img/sketch.jpg
 bigimg: /img/vld.png
 share-img: "/img/sketch.jpg"
-
+---
 
 This is a short post after so long time.
 
