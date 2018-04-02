@@ -8,7 +8,7 @@ share-img: "/img/sketch.jpg"
 
 This is a short post after so long time.
 
-If you are wondering what the cover pic is all about. It is one of the results from my Bachelor Thesis. The arrows/vectors depict myosin activity in _C. elegans_ during the gastrulation phase. Thanks to Python, Farneback Algorithm for Optical Flow and to Florian for explaining me the biology behind it and for letting me know what I was programming is actually a real-world phenomenon! 
+If you are wondering what the cover pic is all about. It is one of the results from my Bachelor Thesis. The arrows/vectors depict myosin activity in _C. elegans_ during the gastrulation phase. Thanks to Python, Farneback Algorithm for Optical Flow and to [Florian](https://twitter.com/florianjug/status/978600914163523585) for explaining me the biology behind it and for letting me know what I was programming is actually a real-world phenomenon! 
 
 And the profile pic is a random sketching of what may look like _Shiva_.
 
