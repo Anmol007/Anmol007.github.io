@@ -6,11 +6,9 @@ subtitle: 3 mins read
 
 
 #### December 2017 - January 2018
-> Stop complaining. Stop making excuses. Nobody is listening. 
->
->-Gary Vaynerchuk 
+> Stop complaining. Stop making excuses. Nobody is listening. -*Gary Vaynerchuk* 
 
-I went to India for the Christmas holidays and to try my luck for the first week of campus placements at my University which going to start for January onwards. Why the first week? Because during the second week I had to leave for Germany for my Masters thesis project. I wasn't able to secure an offer in the on-campus placements. I won't give any lame reasons that I only had 1-week time to sit for the placements and that I wasn't prepared because of the previous semesters' thesis abroad, blah, blah, blah. Plain and simple: I didn't make it. But yeah, I did come back from Pilani to my home a week earlier to relax and cool down before my departure to Germany. That was a bold and an unconventional decision. I accepted my failure to build something on it in near future.
+I went to India for the Christmas holidays as well as to try my luck for the first week of campus placements at my University. Unfortunately, I wasn't able to secure an offer in the first week of the on-campus placements. I won't give any lame reasons that I only had 1-week time to sit for the placements and that I wasn't prepared because of the previous semesters' thesis abroad. Plain and simple: I didn't make it. I came back to my home from the University a week earlier to relax and cool down before my departure to Germany. That was a bold and an unconventional decision of not sitting in the placements further. I accepted my micro-failure to build something on it in near future.
 
 ---
 #### January 2018 - March 2018
