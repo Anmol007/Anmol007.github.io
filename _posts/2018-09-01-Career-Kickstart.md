@@ -27,9 +27,7 @@ That's what I used to do. I used to ask Ivo to schedule group meetings where I c
 ---
 
 #### June 2018
-> Work Hard or Work Smart? Do Both! 
->
->-Gary Vee
+> Work Hard or Work Smart? Do Both! -*Gary Vaynerchuk*
 
 Finally, I saw the result of five years of my **patience**, **hard work** and **support** of my mentors Ivo, Florian, Prof. Rajiv Kumar, and Rishi bhaiya:
 - **After sleepless weeks of thesis writing**:  
