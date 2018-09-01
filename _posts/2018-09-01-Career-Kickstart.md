@@ -36,7 +36,7 @@ On 15th May 2018, I successfully defended my Masters thesis at Center for System
 On 1st June 2018, I got a kick start to my career with a job offer for Data Scientist position from a Dutch company. The first and the best offer, I would say. 
 - **After five years of university life**:  
 On July 25th July 2018, I received my degree in *Computer Science* and *Mathematics* and became a proud alumnus of BITS Pilani. 
----
 
+---
 So, this is how I landed my first job as a Data Scientist and I'm loving it!! 
 
