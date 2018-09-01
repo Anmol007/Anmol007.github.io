@@ -29,7 +29,7 @@ That's what I used to do. I used to ask Ivo to schedule group meetings where I c
 #### June 2018
 > Work Hard or Work Smart? Do Both! -*Gary Vaynerchuk*
 
-Finally, I saw the result of five years of my **patience**, **hard work** and **support** of my mentors Ivo, Florian, Prof. Rajiv Kumar, and Rishi bhaiya:
+Finally, I saw the result of five years of my **patience**, **hard work** and **support** from my mentors Ivo, Florian, Prof. Rajiv Kumar, and Rishi bhaiya:
 - **After sleepless weeks of thesis writing**:  
 On 15th May 2018, I successfully defended my Masters thesis at Center for Systems Biology Dresden (CSBD), Germany.  
 - **After numerous rejections**:  
