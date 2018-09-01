@@ -22,7 +22,7 @@ I happily flew to Germany for my next adventure: Masters thesis project under Iv
 > When we don't have anything to lose we try our best to achieve what we want. 
 
 I started applying to various companies across Germany, Switzerland, and the Netherlands. The weekdays went like this: Institute work-> Home-> Job applications-> Time with friends->Repeat. The best thing that I learned while my stay abroad is being accountable and responsible for your own tasks. When you are actually accountable for some task then your productivity goes up and you try to be result oriented rather than work-oriented.
-That's what I used to do. I used to ask Ivo to schedule group meetings where I can show my monthly progress. This kept me on the right track because presenting in front of the group made me accountable and that's how my work my job applications or leisure time wasn't affected as I exactly knew when was the next presentation is gonna happen and how much effort should I need to put in that. 
+That's what I used to do. I used to ask Ivo to schedule group meetings where I can show my monthly progress. This kept me on the right track because presenting in front of the group made me accountable and that's how my work, job applications or leisure time wasn't affected as I exactly knew when the next presentation was gonna happen and how much effort should I need to put in that. 
 
 ---
 
