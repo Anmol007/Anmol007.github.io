@@ -14,7 +14,7 @@ I went to India for the Christmas holidays as well as to try my luck for the fir
 #### January 2018 - March 2018
 > Communication is the key.
 
-I happily flew to Germany for my next adventure: Masters thesis project under Ivo (he's the one under whom I did my first ever foreign internship in 2016). Meanwhile, in December, I didn't apply for the prestigious Max Planck Institute's Ph.D. program, which I was really interested to do before. Later I realized that it was an instant gratification that was making the call. I resisted that call and instead spoke to Ivo (my supervisor) about it. Ivo was quite supportive and encouraged me to explore different dimensions other than academia and suggested to make an informed choice before choosing a research career. I'm very much grateful to him for is unconditioned support.  
+I happily flew to Germany for my next adventure: Masters thesis project under Ivo (he's the one under whom I did my first ever foreign internship in 2016). Meanwhile, in December, I didn't apply for the prestigious Max Planck Institute's Ph.D. program, which I was really interested to do before. Later I realized that it was an instant gratification that was making the call. I resisted that call and instead spoke to Ivo (my supervisor) about it. Ivo was quite supportive and encouraged me to explore different dimensions other than academia and suggested to make an informed choice before choosing a research career. I'm very much grateful to him for his unconditional support.  
 *So here I am: No job offer | No Ph.D. application | only left with Masters Thesis work. What did I do? Heads down and work- that's what I did.* 
 
 ---
