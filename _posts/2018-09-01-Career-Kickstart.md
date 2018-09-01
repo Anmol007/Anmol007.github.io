@@ -1,11 +1,9 @@
 ﻿---
 layout: post
 title: How I got my first job as a Data Scientist? 
-image: 
-bigimg: 
-share-img: 
+subtitle: 3 mins read
 ---
-3 mins read
+
 
 #### December 2017 - January 2018
 > Stop complaining. Stop making excuses. Nobody is listening. 
@@ -36,14 +34,13 @@ That's what I used to do. I used to ask Ivo to schedule group meetings where I c
 >-Gary Vee
 
 Finally, I saw the result of five years of my **patience**, **hard work** and **support** of my mentors Ivo, Florian, Prof. Rajiv Kumar, and Rishi bhaiya:
-* **After sleepless weeks of thesis writing**:  
+- **After sleepless weeks of thesis writing**:  
 On 15th May 2018, I successfully defended my Masters thesis at Center for Systems Biology Dresden (CSBD), Germany.  
-* **After numerous rejections**:  
+- **After numerous rejections**:  
 On 1st June 2018, I got a kick start to my career with a job offer for Data Scientist position from a Dutch company. The first and the best offer, I would say. 
-* **After five years of university life**:  
+- **After five years of university life**:  
 On July 25th July 2018, I received my degree in *Computer Science* and *Mathematics* and became a proud alumni of BITS Pilani. 
 ---
 
-So, this is how I landed my first job as a Data Scientist and I love it!! 
+So, this is how I landed my first job as a Data Scientist and I'm loving it!! 
 
-Wishing everyone health, joy and a great time ahead! 
