@@ -12,7 +12,7 @@ I love quotes and many have shaped how I think, how I respond to situations and 
 > -Answered by Debarghya Das (as of Oct. 2018, he works at Google)
 > 
 
-It a very precise answer and many students who come from good colleges can relate to what Debarghya is trying to say. Almost all BITSians (including me) at one point or the other had this feeling when we entered BITS Pilani, a Tier 1 college in India, that "this is it". But sooner *some* realized that its not entirely upto the college to get a high paying job for you, pay your tuition loan or make you a fantastic artist/engineer/leader/XYZ person. The sooner that realization comes the better. I am very fortunate to have studied at BITS Pilani not because its a Tier 1 college but because I got a five year wonderful lifetime experience.
+It is a very precise answer and many students who come from good colleges can relate to what Debarghya is trying to say. Almost all BITSians (including me) at one point or the other had this feeling when we entered BITS Pilani, a Tier 1 college in India, that "this is it". But sooner *some* realized that its not entirely upto the college to get a high paying job for you, pay your tuition loan or make you a fantastic artist/engineer/leader/XYZ person. The sooner that realization comes the better. I am very fortunate to have studied at BITS Pilani not because its a Tier 1 college but because I got a five year wonderful lifetime experience.
 * I met some fantastic folks of my same age, 
 * I lived in Pilani's extreme climate conditions ranging from 40 degree in summer to less than 10 degrees in winter, 
 * I was metored by some of the great professors, and 
@@ -22,8 +22,7 @@ It a very precise answer and many students who come from good colleges can relat
 
 *Short update*: 
 
-I just completed my first data driven project at the Delaval (*the company where I am working as a Data Scientist*). I got to implement and deliver a full-fledged product backed by AI. It was a very exciting and ambitious project and would help to make the dairy farms across the world more intelligent. 
-</br>*Fun fact:* Experienced a whole new level of Python, TensorFlow and deployment techniques which I wasn't knowing before. Good to have these things under the belt! 
+I just completed my first data driven project at the Delaval (*the company where I am working as a Data Scientist*). I got to implement and deliver a full-fledged product backed by AI. It was a very exciting and ambitious project and would help to make the dairy farms across the world more intelligent. I experienced a whole new level of Python, TensorFlow and deployment techniques which I wasn't knowing before. Good to have these things under the belt! :sunglasses:
 
 ---
 
