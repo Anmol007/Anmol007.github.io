@@ -1,5 +1,5 @@
 ---
-layout: markdown
+layout: post
 title: A Quora answer: my two cents
 image: /img/second_profile_.jpg
 bigimg: /img/bits_aerial.jpeg
