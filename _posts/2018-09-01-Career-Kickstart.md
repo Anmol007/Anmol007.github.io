@@ -26,7 +26,6 @@ That's what I used to do. I used to ask Ivo to schedule group meetings where I c
 ---
 
 #### June 2018
-<<<<<<< HEAD
 > Work Hard or Work Smart? Do Both! -*Gary Vaynerchuk* 
 
 - **After sleepless weeks of thesis writing**:  
