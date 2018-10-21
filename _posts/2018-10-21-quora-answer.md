@@ -1,6 +1,6 @@
 ﻿---
 layout: post
-title: A Quora answer *my two cents*
+title: A Quora answer and *my two cents*
 bigimg: /img/bits_aerial.jpeg
 share-img: "/img/bits_aerial.jpeg"
 ---
@@ -15,11 +15,11 @@ I love quotes and many have shaped how I think, how I respond to situations and 
 > 
  
 
-It is a very precise answer and many students who come from good colleges can relate to what Debarghya is trying to say. Almost all BITSians (including me) at one point or the other had this feeling when we entered BITS Pilani, a Tier 1 college in India, that "this is it". But sooner *some* realized that its not entirely upto the college to get a high paying job for you, pay your tuition loan or make you a fantastic artist/engineer/leader/XYZ person. The sooner that realization comes the better. I am very fortunate to have studied at BITS Pilani not because its a Tier 1 college but because I got a five year wonderful lifetime experience.
+It is a very precise answer and many students who come from good colleges can relate to what Debarghya is trying to say. Almost all BITSians (including me) at one point or the other had this feeling when we entered BITS Pilani, a Tier 1 college in India, that "this is it". But sooner *some* realized that its not entirely upto the college to get a high paying job for you, pay your tuition loan or make you a fantastic artist/engineer/leader/XYZ person. The sooner that realization comes the better. I am very fortunate to have studied at BITS Pilani not because its a Tier 1 college but because I got five years of wonderful lifetime experience.
 * I met some fantastic folks of my age, 
-* I lived in Pilani's extreme climate conditions ranging from 40 degrees in summer to less than 10 degrees in winter, 
-* I was metored by some of the great professors, and 
-* I found friends for life.
+* I got to live in [Pilani](https://en.wikipedia.org/wiki/Pilani)'s extreme climate conditions ranging from 40 degrees in summer to less than 10 degrees in winter, 
+* I was mentored by some of the coolest professors, and 
+* I found awesome friends for life.
 
 ---
 
