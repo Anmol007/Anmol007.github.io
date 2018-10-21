@@ -1,10 +1,10 @@
 ﻿---
 layout: post
-title: A Quora answer: my two cents
-image: /img/second_profile_.jpg
+title: A Quora answer _my two cents_
 bigimg: /img/bits_aerial.jpeg
 share-img: "/img/bits_aerial.jpeg"
 ---
+
 I love quotes and many have shaped how I think, how I respond to situations and most importantly how I find happiness within. I stumbled upon the following Quora answer which serves the purpose of a quote too:
 
 > What are some good pieces of advice that most college students are not ever likely to hear? 
