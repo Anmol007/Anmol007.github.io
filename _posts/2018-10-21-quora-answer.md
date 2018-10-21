@@ -1,4 +1,4 @@
-﻿---
+---
 layout: markdown
 title: A Quora answer: my two cents
 image: /img/second_profile_.jpg
