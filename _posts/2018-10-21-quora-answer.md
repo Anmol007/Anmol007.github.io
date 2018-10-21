@@ -22,7 +22,7 @@ It is a very precise answer and many students who come from good colleges can re
 
 *Short update*: 
 
-I just completed my first data driven project at the Delaval (*the company where I am working as a Data Scientist*). I got to implement and deliver a full-fledged product backed by AI. It was a very exciting and ambitious project and would help to make the dairy farms across the world more intelligent. I experienced a whole new level of Python, TensorFlow and deployment techniques which I wasn't knowing before. Good to have these things under the belt! :sunglasses:
+I just completed my first data driven project at the Delaval (*the company where I am working as a Data Scientist*). I got to implement and deliver a full-fledged product backed by AI. It was a very exciting and ambitious project and would help to make the dairy farms across the world more intelligent. I experienced a whole new level of Python, TensorFlow and deployment techniques which I wasn't knowing before. Good to have these things under the belt! 
 
 ---
 

@@ -38,7 +38,7 @@ On 25th July 2018, I received my degree in *Computer Science* and *Mathematics* 
 
 ---
 ![](../img/ivo_and_me.jpg)
-*[Ivo and me on my last day at the Max Planck Institute.]( https://twitter.com/mosaicgroup1/status/1007271607285448704)*
+->*[Ivo and me on my last day at the Max Planck Institute.]( https://twitter.com/mosaicgroup1/status/1007271607285448704)*<-
 
 So, this is how I landed my first job as a Data Scientist and I'm loving it!! 
 
