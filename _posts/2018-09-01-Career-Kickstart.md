@@ -1,9 +1,7 @@
 ﻿---
 layout: post
-title: How I got my first job as a Data Scientist? 
+title: My journey of becoming a Data Scientist
 ---
-
-![Ivo and me on my last day at the Max Planck Institute.https://twitter.com/mosaicgroup1/status/1007271607285448704](../img/ivo_and_me.jpg)
 
 #### December 2017 - January 2018
 > Stop complaining. Stop making excuses. Nobody is listening. -*Gary Vaynerchuk* 
@@ -39,6 +37,9 @@ On 1st June 2018, I got a kick start to my career with a job offer for Data Scie
 On 25th July 2018, I received my degree in *Computer Science* and *Mathematics* and became a proud alumnus of BITS Pilani. 
 
 ---
+![](../img/ivo_and_me.jpg)
+*[Ivo and me on my last day at the Max Planck Institute.]( https://twitter.com/mosaicgroup1/status/1007271607285448704)*
+
 So, this is how I landed my first job as a Data Scientist and I'm loving it!! 
 
 
