@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 title: How I got my first job as a Data Scientist? 
 --
