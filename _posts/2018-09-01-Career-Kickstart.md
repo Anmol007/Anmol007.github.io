@@ -1,7 +1,8 @@
----
+﻿---
 layout: post
 title: How I got my first job as a Data Scientist? 
---
+subtitle: 3 mins read
+---
 
 
 #### December 2017 - January 2018
@@ -26,13 +27,19 @@ That's what I used to do. I used to ask Ivo to schedule group meetings where I c
 ---
 
 #### June 2018
+<<<<<<< HEAD
 > Work Hard or Work Smart? Do Both! -*Gary Vaynerchuk* 
+=======
+> Work Hard or Work Smart? Do Both! -*Gary Vaynerchuk*
+>>>>>>> 589781727dd95d09c84d0d2d73991b308008fd54
 
+Finally, I saw the result of five years of my **patience**, **hard work** and **support** from my mentors Ivo, Florian, Prof. Rajiv Kumar, and Rishi bhaiya:
 - **After sleepless weeks of thesis writing**:  
 On 15th May 2018, I successfully defended my Masters thesis at Center for Systems Biology Dresden (CSBD), Germany.  
 - **After numerous rejections**:  
 On 1st June 2018, I got a kick start to my career with a job offer for Data Scientist position from a Dutch company. The first and the best offer, I would say. 
 - **After five years of university life**:  
+On 25th July 2018, I received my degree in *Computer Science* and *Mathematics* and became a proud alumnus of BITS Pilani. 
 
 ---
 So, this is how I landed my first job as a Data Scientist and I'm loving it!! 
