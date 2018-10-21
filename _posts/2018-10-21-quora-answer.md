@@ -1,6 +1,6 @@
 ﻿---
 layout: post
-title: A Quora answer _my two cents_
+title: A Quora answer *my two cents*
 bigimg: /img/bits_aerial.jpeg
 share-img: "/img/bits_aerial.jpeg"
 ---
