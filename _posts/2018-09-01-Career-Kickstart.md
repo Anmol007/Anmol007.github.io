@@ -1,8 +1,7 @@
 ﻿---
 layout: post
 title: How I got my first job as a Data Scientist? 
-
----
+--
 
 
 #### December 2017 - January 2018
@@ -29,9 +28,6 @@ That's what I used to do. I used to ask Ivo to schedule group meetings where I c
 #### June 2018
 <<<<<<< HEAD
 > Work Hard or Work Smart? Do Both! -*Gary Vaynerchuk* 
-=======
-> Work Hard or Work Smart? Do Both! -*Gary Vaynerchuk*
->>>>>>> 589781727dd95d09c84d0d2d73991b308008fd54
 
 - **After sleepless weeks of thesis writing**:  
 On 15th May 2018, I successfully defended my Masters thesis at Center for Systems Biology Dresden (CSBD), Germany.  
