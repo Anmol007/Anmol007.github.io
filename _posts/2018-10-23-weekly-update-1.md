@@ -3,7 +3,7 @@ layout: post
 title: Weekly update 1| A new project and festive season
 ---
 
-I recently found a nice book on Reinforcement learning. I have not extensively worked on this topic but after some digging the book turns out to be very famous among the community. Here's the link to it.
+I recently found a nice book on Reinforcement learning. I have not extensively worked on this topic but the book is very famous among the community. After 1998, the authors have now published the second edition which shows that the field was actually dead for two decades until  [AlphaGo](https://en.wikipedia.org/wiki/AlphaGo), [AlphaZero](https://en.wikipedia.org/wiki/AlphaZero) and similar games came into limelight. Here's the [link](https://mitpress.mit.edu/books/reinforcement-learning-second-edition) to it. (*Source: Andriy Burkov's post*) 
 
 As I updated in the last post, today I'm done with the final report and analysis of the first project. The current project involved development of machine learning pipeline from scratch including: *data extraction, data pre-processing, model develeoplment, model validaton and deployment on the production server*. I'm looking forward to the next project which is analytics intensive. Here, I would need to use all my creative and statistical skills to make sense out of the raw data. Definitely, it would be a fun-filled learning experience. At the end of the project I hope to get some cool data visualization techniques under my belt. 
 
