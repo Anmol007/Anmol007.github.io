@@ -1,6 +1,6 @@
 ﻿---
 layout: post
-title: Weekly update 1: A new project and festive season
+title: Weekly update 1| A new project and festive season
 ---
 
 I recently found a nice book on Reinforcement learning. I have not extensively worked on this topic but after some digging the book turns out to be very famous among the community. Here's the link to it.
