@@ -3,10 +3,8 @@ layout: post
 title: Morning Coffee at the beach with Papa
 ---
 
-![](../img/coffee_with_papa.jpg)
----
-
 Date: 5th January 2020.
+
 Place: Pondicherry, India.
 
 It was morning time, 7:32 AM to be precise. 
@@ -23,4 +21,6 @@ Interestingly enough, a while later though, he started explaining to me on the c
 
 Those 2 minutes of conversations were not related to finding the answers if we got charged high or low but they definitely served as a starter to dad-son "gratitude" talks on how that cup of coffee was worth having together near the beach irrespective how the world economy works.
 
-
+---
+![](../img/coffee_with_papa.jpg)
+---
