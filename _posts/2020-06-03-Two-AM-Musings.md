@@ -5,8 +5,7 @@ title: Two AM Musings
 
 Lately, I have been reading (or having the interest to read) to know more about how a company like LinkedIn and some about Yahoo, particularly their engineering department, survived and fought the technical battles in the early days.
 
-These readings in the early stage of my career are not only helping me to understand what mistakes and challenges a bunch of smart engineers are prone to and how they find their way out. Most of them are from David Henke, who is a former VP of engineering at LinkedIn. For archive purpose I'll put the link here below:
-https://www.linkedin.com/pulse/introduction-every-day-monday-operations-benjamin-purgason/
+These readings in the early stage of my career are not only helping me to understand what mistakes and challenges a bunch of smart engineers are prone to but also how they find their way out. Most of them are from David Henke, who is a former VP of engineering at LinkedIn. For archive purpose I'll put the link [here](https://www.linkedin.com/pulse/introduction-every-day-monday-operations-benjamin-purgason/).
 
 There's also a great YouTube video by David Henke where he talks to fresh graduates of the University of South California, Santa Barbara about his journey as a leader (he repeatedly confirms he never wanted that title), culture at LinkedIn, examples of his from the projects he leads and how they shaped his philosophy, list of books (which I will into or should) and answers interesting questions of how it was able for him to be trained as a mathematician and leading the team of engineers at Yahoo and LinkedIn.
 
