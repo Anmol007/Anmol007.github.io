@@ -11,7 +11,7 @@ There's also a great YouTube video by David Henke where he talks to fresh gradua
 
 I have to go through the list of books which David shared in his slides and I'm planning to pick atleast one for coming months.
 
-Its a tight week for me because its the Sprint week where we have the planning, retro, refinement, review BUT at the same time I'm feeling great to come across these gems - articles.
+It's a tight week for me because its the Sprint week where we have the planning, retro, refinement, review BUT at the same time I'm feeling great to come across these gems - articles.
 
 In the next post, hopefully, this week, I would like to write about some amazing stuff I learned, implemented, and deployed which I hope would help the organization moving forward with the data quality challenges.
 
